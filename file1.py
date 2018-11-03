@@ -25,3 +25,4 @@ def reset():
 # NOTE: Doesn't run if not specifically running setup - file should only be run once.
 if __name__ == "__main__":
     print("dummy")
+    reset()
